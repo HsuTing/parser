@@ -14,7 +14,7 @@ yarn install
 
 All Data will output to [data](./data).
 You can also use link directly.
-```
+```javascript
 // file type can be `.csv`, `.json`
 http://hsuting.com/parser/data/(name)/(name).(file type)
 ```
