@@ -12,11 +12,10 @@ yarn install
 
 ## How to use
 
-All Data will output to [data](./data).
+All Data will output `json`, `csv` file to [data](./data).
 You can also use link directly.
-```javascript
-// file type can be `.csv`, `.json`
-http:\/\/hsuting.com/parser/data/(name)/(name).(file type)
+```
+http://hsuting.com/parser/data/(name)/(name).(file type)
 ```
 
 If you want to get new data from government, you can use function in [bin](./bin).
